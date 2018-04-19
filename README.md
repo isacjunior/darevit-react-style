@@ -223,7 +223,7 @@ const sum = (a, b) => a + b
 const Bonus = () => {
   return (
     <div>
-      <h1>Zup Style Guide</h1>
+      <h1>Darevit Style Guide</h1>
     </div>
   )
 }
@@ -231,7 +231,7 @@ const Bonus = () => {
 // Good
 const Bonus = () => (
   <div>
-    <h1>Zup Style Guide</h1>
+    <h1>Darevit Style Guide</h1>
   </div>
 )
 ```
